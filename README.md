@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 **Currently learning:** Advanced techniques in data processing, Large Language Models, Matillion ETL for optimized data integration.
 
-- 👯 **Looking to collaborate on:** Projects involving natural language processing, data cleansing, and keyword extraction.
+- 👯 **Looking to collaborate on:** LLMs, NLP, and advanced data cleansing projects.
 
 - 💬 **Ask me about:** My experience in developing user-friendly web applications, utilizing React for frontend and Django for backend development.
 
