@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3> 💻 &nbsp;About Me </h3>
--
 
 - 🔭 Currently working on Exploring advanced applications of NLP and machine learning algorithms for text classification.
   
@@ -48,9 +47,11 @@ Here are some ideas to get you started:
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
  
-- IDEs🔧 &nbsp;
+- IDEs💻 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
+  ![Static Badge](https://img.shields.io/badge/Pycharm-green?style=plastic&logo=pycharm&logoColor=black)
+
   
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
