@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 **Currently working on:** Exploring advanced applications of NLP and machine learning algorithms for text classification.
+
+- 🌱 **Currently learning:** Advanced techniques in data processing, Large Language Models, Matillion ETL for optimized data integration.
+
+- 👯 **Looking to collaborate on:** Projects involving natural language processing, data cleansing, and keyword extraction.
+
+- 💬 **Ask me about:** My experience in developing user-friendly web applications, utilizing React for frontend and Django for backend development.
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
