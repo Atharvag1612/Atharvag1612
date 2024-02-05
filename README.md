@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 **Currently working on:** Exploring advanced applications of NLP and machine learning algorithms for text classification.
+- 🔭 Currently working on Exploring advanced applications of NLP and machine learning algorithms for text classification.
 
-- 🌱 **Currently learning:** Advanced techniques in data processing, Large Language Models, Matillion ETL for optimized data integration.
+- 🌱 Currently learning Advanced techniques in data processing, Large Language Models, Matillion ETL for optimized data integration.
 
-- 👯 **Looking to collaborate on:** LLMs, NLP, and advanced data cleansing projects.
+- 👯 Looking to collaborate on LLMs, NLP, and advanced data cleansing projects.
 
-- 💬 **Ask me about:** My experience in developing user-friendly web applications, utilizing React for frontend and Django for backend development.
+- 💬 Ask me about My experience in Machine Learning & developing user-friendly web applications, utilizing React for frontend and Django for backend development.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
