@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h3> 💻 &nbsp;About Me </h3>
 - 🔭 Currently working on Exploring advanced applications of NLP and machine learning algorithms for text classification.
 
 - 🌱 Currently learning Advanced techniques in data processing, Large Language Models, Matillion ETL for optimized data integration.
@@ -22,6 +22,34 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on LLMs, NLP, and advanced data cleansing projects.
 
 - 💬 Curious about ML & Data Science? Ask me about crafting intelligent solutions and user-friendly experiences!
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- Programming Languages🌐 &nbsp;
+  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Sql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+
+  
+- Tools🔧 &nbsp;
+  ![Static Badge](https://img.shields.io/badge/Snowflake-blue?logo=snowflake&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Tensorflow-black?style=plastic&logo=tensorflow&logoColor=blue)
+  ![Static Badge](https://img.shields.io/badge/Matillion-green?style=plastic&logo=matillion&logoColor=black)
+  ![Django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
+
+  
+- Version Control⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+ 
+- IDEs🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
+  
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
