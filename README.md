@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/atharvaghale/"><img alt="Static Badge" src="https://img.shields.io/badge/Atharva%20Ghale-blue?logo=linkedin">
 
 </a>
