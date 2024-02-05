@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👯 Looking to collaborate on LLMs, NLP, and advanced data cleansing projects.
 
-- 💬 Ask me about My experience in Machine Learning & developing user-friendly web applications, utilizing React for frontend and Django for backend development.
+- 💬 Curious about ML & Data Science? Ask me about crafting intelligent solutions and user-friendly experiences!
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
