@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/atharvaghale/"><img alt="Static Badge" src="https://img.shields.io/badge/Atharva%20Ghale-blue?logo=linkedin">
+
+</a>
+<a href="mailto:ghale.atharva@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/ghale.atharva%40gmail.com-white?logo=gmail&logoColor=red">
+</a>
