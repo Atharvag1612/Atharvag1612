@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 **Currently working on:** Exploring advanced applications of NLP and machine learning algorithms for text classification.
+🔭 **Currently working on:** Exploring advanced applications of NLP and machine learning algorithms for text classification.
 
 - 🌱 **Currently learning:** Advanced techniques in data processing, Large Language Models, Matillion ETL for optimized data integration.
 
