@@ -41,16 +41,21 @@ Here are some ideas to get you started:
   ![Django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
+  ![Static Badge](https://img.shields.io/badge/postman-black?style=plastic&logo=postman)
 
   
 - Version Control⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Static Badge](https://img.shields.io/badge/Gitlab-black?style=plastic&logo=gitlab)
  
 - IDEs💻 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
   ![Static Badge](https://img.shields.io/badge/Pycharm-green?style=plastic&logo=pycharm&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/jupyter-black?style=plastic&logo=jupyter)
+  ![Static Badge](https://img.shields.io/badge/Anaconda-black?style=plastic&logo=anaconda)
+
 
   
 
